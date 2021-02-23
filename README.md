@@ -9,7 +9,7 @@
 - 5、課題提出で行っている
 - 　　$ git add .
 - 　　$ git commit -m "first commit"
-- 　　をし、
+  　　をし、
 -     $ git push -u origin [ブランチ名]
       で編集したブランチをプシュ
 -  6、developブランチにプルリクエストを送る
